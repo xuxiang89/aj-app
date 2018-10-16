@@ -42,7 +42,7 @@ public class Swagger2 {
                 .title("后台接口文档与测试")
                 .description("这是一个给app端人员调用server端接口的测试文档与平台")
                 .version("1.0.0")
-                .termsOfServiceUrl("http://terms-of-services.url")
+                //.termsOfServiceUrl("http://terms-of-services.url")
                 //.license("LICENSE")
                 //.licenseUrl("http://url-to-license.com")
                 .build();
